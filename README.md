@@ -1,4 +1,4 @@
-# Cinema-Revenue-Analysis
+# Cinema Revenue Analysis
 
 ## Overview
 This project analyzes the factors that predict the **profitability of motion pictures**. Using data on approximately 100 movies from 30 directors, the goal is to model **worldwide gross revenue** based on key covariates such as budget, runtime, genre, director, and audience ratings.  
